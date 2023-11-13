@@ -1,12 +1,12 @@
-import Profile from '../components/profile/Profile';
-import Statistics from '../components/statistics/Statistics';
-import FriendList from '../components/friend-list/FriendList';
-import TransactionHistory from '../components/transaction-history/TransactionHistory'
+import Profile from './Profile/Profile';
+import Statistics from './Statistics/Statistics';
+import FriendList from './FriendList/FriendList';
+import TransactionHistory from './Transaction/TransactionHistory'
 
-import user from '../path/user.json';
-import data from '../path/data.json';
-import friends from '../path/friends.json';
-import transactions from '../path/transactions.json';
+import user from '../JSON/user.json';
+import data from '../JSON/data.json';
+import friends from '../JSON/friends.json';
+import transactions from '../JSON/transactions.json';
 
 
 
